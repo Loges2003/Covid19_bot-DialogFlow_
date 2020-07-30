@@ -12,7 +12,7 @@ class GMailClient:
         #EMAIL_ADDRESS = os.environ.get('EMAIL_USER')
         #EMAIL_PASSWORD = os.environ.get('EMAIL_PASS')
         EMAIL_ADDRESS = 'vfind.in@gmail.com'
-        EMAIL_PASSWORD = 'loges52395'
+        EMAIL_PASSWORD = ''
 
         #contacts = ['dineshraturi22@gmail.com']
 
